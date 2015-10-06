@@ -1,2 +1,4 @@
 GITHUB training
 Training went for a toss. 
+
+changes in README
